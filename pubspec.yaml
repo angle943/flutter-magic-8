@@ -22,3 +22,8 @@ flutter:
 
   assets:
     - images/
+
+  fonts:
+    - family: ShadowsIntoLight
+      fonts:
+        - asset: fonts/ShadowsIntoLight.ttf
